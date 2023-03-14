@@ -13,19 +13,19 @@ olist_order_items_dataset = pd.read_csv('/mnt/HC_Volume_18315164/home-jupyter/ju
 # In[2]:
 
 
-olist_customers_datase
+olist_customers_datase.head()
 
 
 # In[3]:
 
 
-olist_orders_dataset
+olist_orders_dataset.head()
 
 
 # In[4]:
 
 
-olist_order_items_dataset
+olist_order_items_dataset.head()
 
 
 # In[5]:
